@@ -1,0 +1,4 @@
+Em um terminal linux executar o seguinte comando.
+
+$ g++ Gerente.h Gerente.cpp Funcionario.h Funcionario.cpp Cliente.h Cliente.cpp Produto.h Produto.cpp main.cpp
+
